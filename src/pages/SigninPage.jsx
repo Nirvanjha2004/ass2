@@ -43,7 +43,7 @@ export default function SigninPage() {
       {/* Left side - Image */}
       <div className="hidden lg:block lg:w-1/2">
         <img 
-          src="/Image.png" 
+          src="/products/Image.png" 
           alt="Fashion" 
           className="w-full h-full object-cover"
         />
